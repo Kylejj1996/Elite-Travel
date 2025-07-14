@@ -1,0 +1,2 @@
+Cali Beach House|850 Vinice St.|284-897-3268|Modern Beach house located on the beach|8|200.0|4|false|65.0|true
+Colorado Mountain Cottage|723 Maple St.|950-689-3645|Rustic Cottage in the beautiful mountains of Colorado|8|250.0|4|true|60.0|true
