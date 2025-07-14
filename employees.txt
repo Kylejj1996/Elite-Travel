@@ -1,0 +1,5 @@
+2|Manager|1400 Knox st.|ManagerLogin|teww{svh|906-555-1589|true|11/21/2019|80000.0
+2|Employee|123 Main St.|EmployeeLogin|teww{svh|806-555-1234|false|10/01/2020|95000.0
+3|Kyle|100 Southlake Dr.|Kylejj|teww{svh|231-132-4343|false|11/21/2000|110000.0
+4|Patrick|Under a rock in Bikini Bottom|PStar12|teww{svh|232-223-2323|false|11/21/2000|100000.0
+5|Spongebob|Pineapple in bikini bottom.|SquarepantsSir1|teww{svh|000-000-0000|false|12/23/2020|80000.0

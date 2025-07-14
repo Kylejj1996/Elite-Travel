@@ -1,0 +1,2 @@
+Comfort Inn|199 Southlake Dr.|284-897-2245|The quality of comfort.|4|120.0|false|15|false|0.0|true|true|50.0
+Aria Resort & Casino|751 Las Vegas Blvd|489-234-5581|Modern luxury Hotel located on the Vegas strip.|6|500.0|false|30|true|60.0|true|false|150.0
