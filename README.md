@@ -44,16 +44,17 @@ A Java-based Lodging Management System that supports remote database connectivit
 
 ## 📬 Contact
 
-| Name           | Contact Info                                       |
-|----------------|----------------------------------------------------|
-| Kyle Johnson   | [Kylejj19@gmail.com](mailto:Kylejj19@gmail.com) |
-| LinkedIn       | [LinkedIn Profile](https://www.linkedin.com/in/kyle-johnson-845718335/) |
+Contact | Information
+--------|------
+Name | Kyle Johnson
+Email | [Kylejj19@gmail.com](mailto:Kylejj19@gmail.com)
+LinkedIn | [LinkedIn](https://www.linkedin.com/in/kyle-johnson-845718335/)
 
 ---
 
-## 📄 License
-[GNU General Public License v3.0](/LICENSE)
+### 📄 [License](/LICENSE) 
+GNU General Public License v3.0
 
-> This project is open-source under the GNU GPL v3. Contributions, forks, and feedback are welcome.
+Permissions of this strong copyleft license are conditioned on making available complete source code of licensed works and modifications, which include larger works using a licensed work, under the same license. Copyright and license notices must be preserved. Contributors provide an express grant of patent rights.
 
 ---
