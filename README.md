@@ -1,4 +1,4 @@
-# 🏨 Java Lodging Management System
+# 🏨 Elite Travel Lodging Management System
 
 A Java-based Lodging Management System that supports remote database connectivity, user login, lodging management, and image display. This project demonstrates Object-Oriented Programming (OOP), multi-threading, and GUI design using Java Swing.
 
