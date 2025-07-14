@@ -2,6 +2,7 @@
 
 A Java-based Lodging Management System that supports remote database connectivity, user login, lodging management, and image display. This project demonstrates Object-Oriented Programming (OOP), multi-threading, and GUI design using Java Swing.
 
+> ⚠️ **Note**: This was one of my earlier Java projects, created as part of my journey learning software development. It focuses on core concepts like OOP, threading, and database integration with a Swing GUI.
 ---
 
 ## ✨ Features
