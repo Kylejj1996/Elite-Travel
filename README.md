@@ -1,4 +1,4 @@
-# 🏨 Travel Lodging Management System
+# 🏨 Travel Stay Management System
 
 A Java-based Lodging Management System that supports remote database connectivity, user login, lodging management, and image display. This project demonstrates Object-Oriented Programming (OOP), multi-threading, and GUI design using Java Swing.
 
@@ -32,7 +32,7 @@ A Java-based Lodging Management System that supports remote database connectivit
 
 ## 📸 Screenshots  
 
-### Login Form
+### Login View
 ![Home Page](/VisualPreviews/LoginView.png) 
 ### Manager View
 ![Preparing](/VisualPreviews/ManagerView.png) 
